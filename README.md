@@ -1,5 +1,7 @@
 ### Игра Simon The Game (Vue.js)
 
+_Github Pages:_ _https://sergeykorolov.github.io/simon-game/_
+
 **Правила игры**  
 • Игровое поле состоят из 4 кнопок, каждая из которых производит определенный тон и «загорается» при нажатии. 
 
